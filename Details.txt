@@ -1,0 +1,12 @@
+As I submitted my idea, I have built donation helper bot which can be used by people interested to make and receive donations. 
+
+The bot is mainly based on five donation categories - money, food, medical, clothes and covid. However, it is not restricted to these categories and 
+users can provide additional details if needed.
+
+Receivers can submit details about the things they need for donation and donors can search for those details. 
+The bot is built to interpret a single user response containing multiple parameters. For example, the donor can opt to get donation details for
+both medicines and clothes in a single go and receivers can opt to submit donation details for both covid and food in a single go.
+
+Backend business logic and webhook integration is not done yet. It is only the conversation flow. Donors would receive dummy data for now.
+
+I hope you enjoy talking to donation helper bot.
